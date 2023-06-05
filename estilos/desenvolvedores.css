@@ -84,3 +84,7 @@
 .cargo {
     font-size: max(1.3rem, .8vw);
 }
+
+a{
+    text-decoration: none;
+}
